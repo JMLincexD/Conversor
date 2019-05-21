@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="tem">Temperature</string>
+    <string name="CaF">Celcius to Fahrenheit</string>
+    <string name="FaC">Fahrenheit to Celcius</string>
+    <string name="CaK">Celcius to Kelvin</string>
+    <string name="KaC">Kelvin to Celcius</string>
+
+    <string name="dis">Distance</string>
+    <string name="MaC">Meter to Centimeter</string>
+    <string name="CaM">Centimeter to Meter</string>
+    <string name="CaP">Centimeter to Inch</string>
+    <string name="PaC">Inch to Centimeter</string>
+
+
+    <string name="unidad">Unit</string>
+    <string name="cal">Calculate</string>
+    <string name="res">Result</string>
+</resources>
